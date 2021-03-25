@@ -1,0 +1,7 @@
+{
+  "name": "joint-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
